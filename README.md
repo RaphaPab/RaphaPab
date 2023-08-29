@@ -4,7 +4,7 @@ Olá 👋
 📝 Cursando Análise e Desenvolvimento de Sistemas na FIAP - 1° ano
 
 
-⚡ Desenvolvedor Back-End
+⚡ Desenvolvedor Full-Stack
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaPab&show_icons=true&theme=highcontrast)
