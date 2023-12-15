@@ -1,7 +1,7 @@
 Olá 👋
 
 
-📝 Cursando Análise e Desenvolvimento de Sistemas na FIAP - 1° ano
+📝 Cursando Análise e Desenvolvimento de Sistemas na FIAP - 2° ano
 
 
 ⚡ Desenvolvedor Full-Stack
